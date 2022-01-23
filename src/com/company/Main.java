@@ -8,4 +8,8 @@ public class Main {
         int Barcelona = 1;
 
     }
+
+    void addints(){
+        System.out.println("2");
+    }
 }
