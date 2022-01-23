@@ -7,4 +7,7 @@ public class Main {
         int Barcelona = 1;
 
     }
+    void addStrings(){
+        System.out.println("Barcelona");
+    }
 }
